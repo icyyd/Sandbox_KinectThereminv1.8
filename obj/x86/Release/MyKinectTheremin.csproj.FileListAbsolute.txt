@@ -1,0 +1,8 @@
+D:\Study\SOEN-691\Project\References\My Theremin for 2 Persons Using Kinect\C#\obj\x86\Release\MyKinectTheremin.csprojResolveAssemblyReference.cache
+D:\Study\SOEN-691\Project\References\My Theremin for 2 Persons Using Kinect\C#\obj\x86\Release\MainWindow.baml
+D:\Study\SOEN-691\Project\References\My Theremin for 2 Persons Using Kinect\C#\obj\x86\Release\MainWindow.g.cs
+D:\Study\SOEN-691\Project\References\My Theremin for 2 Persons Using Kinect\C#\obj\x86\Release\App.g.cs
+D:\Study\SOEN-691\Project\References\My Theremin for 2 Persons Using Kinect\C#\obj\x86\Release\MyKinectTheremin_MarkupCompile.cache
+D:\Study\SOEN-691\Project\References\My Theremin for 2 Persons Using Kinect\C#\obj\x86\Release\MyKinectTheremin.g.resources
+D:\Study\SOEN-691\Project\References\My Theremin for 2 Persons Using Kinect\C#\obj\x86\Release\MyKinectTheremin.Properties.Resources.resources
+D:\Study\SOEN-691\Project\References\My Theremin for 2 Persons Using Kinect\C#\obj\x86\Release\MyKinectTheremin.csproj.GenerateResource.Cache
